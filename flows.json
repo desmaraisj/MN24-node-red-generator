@@ -242,9 +242,29 @@
         "h": 202
     },
     {
+        "id": "59ae0af28009fc5e",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "GitID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2b46111817f5e3ce",
+            "23f45d8ac6f01707",
+            "2e5f28db10f5de81",
+            "54ffb1bf6d4632d9",
+            "2296a87a397885e5"
+        ],
+        "x": 54,
+        "y": 2239,
+        "w": 1332,
+        "h": 142
+    },
+    {
         "id": "d9dd368f0fbccf8d",
         "type": "mqtt-broker",
-        "name": "MQTT MN24",
+        "name": "MQTT SHOWCONTROL",
         "broker": "172.20.0.103",
         "port": "1883",
         "clientid": "",
@@ -2197,6 +2217,117 @@
         ],
         "x": 1195,
         "y": 340,
+        "wires": []
+    },
+    {
+        "id": "2b46111817f5e3ce",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "59ae0af28009fc5e",
+        "name": "On startup",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 2280,
+        "wires": [
+            [
+                "2e5f28db10f5de81"
+            ]
+        ]
+    },
+    {
+        "id": "23f45d8ac6f01707",
+        "type": "mqtt in",
+        "z": "8309826ef7c657cc",
+        "g": "59ae0af28009fc5e",
+        "name": "version/request",
+        "topic": "version/request",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "d9dd368f0fbccf8d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 160,
+        "y": 2340,
+        "wires": [
+            [
+                "2e5f28db10f5de81"
+            ]
+        ]
+    },
+    {
+        "id": "2e5f28db10f5de81",
+        "type": "exec",
+        "z": "8309826ef7c657cc",
+        "g": "59ae0af28009fc5e",
+        "command": "git -C /data/projects/MN24-node-red-generator rev-parse --short HEAD",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 690,
+        "y": 2310,
+        "wires": [
+            [
+                "54ffb1bf6d4632d9"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "54ffb1bf6d4632d9",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "59ae0af28009fc5e",
+        "name": "Build & store",
+        "func": "const gitID = msg.payload.trim();\nconst instanceId = \"node-red-generator\";\n\nglobal.set(\"gitID\", gitID);\n\nmsg.payload = {\n    id: instanceId,\n    gitID: gitID,\n    timestamp: Date.now()\n};\nmsg.topic = `versions/${instanceId}`;\nmsg.retain = true;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 2280,
+        "wires": [
+            [
+                "2296a87a397885e5"
+            ]
+        ]
+    },
+    {
+        "id": "2296a87a397885e5",
+        "type": "mqtt out",
+        "z": "8309826ef7c657cc",
+        "g": "59ae0af28009fc5e",
+        "name": "publish retained",
+        "topic": "",
+        "qos": "1",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "d9dd368f0fbccf8d",
+        "x": 1280,
+        "y": 2280,
         "wires": []
     }
 ]
