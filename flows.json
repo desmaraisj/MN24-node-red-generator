@@ -1,0 +1,2202 @@
+[
+    {
+        "id": "8309826ef7c657cc",
+        "type": "tab",
+        "label": "Timecode Generator",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5d8cff309d94f72f",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "IO",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cc63fe7309a4eee3",
+            "7f201d645b80fe0e",
+            "3c38ef28188806bd",
+            "9f7ff75b4bdb91bd",
+            "8b2df36171343128"
+        ],
+        "x": 54,
+        "y": 39,
+        "w": 592,
+        "h": 142
+    },
+    {
+        "id": "bfc7a6f8511a7d0d",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 11",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "efde9539eef7c11b",
+            "5726a1c674a78990",
+            "73a34714399f9373",
+            "b44c06c5d22b5e36",
+            "16f50cd4c0624f9a",
+            "f967b0a29b5fd44b",
+            "fc8a4564062f273d",
+            "7c8b10f15f3ca15c",
+            "a31481f861a18203"
+        ],
+        "x": 54,
+        "y": 1999,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "c35bc856fab68451",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 9",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "949905b65b5f6e5c",
+            "98a88f73804ab0b5",
+            "3577f8522bbec778",
+            "bcc0d5f1c0de6b61",
+            "4417edb639698cf5",
+            "cc1fddb448db2651",
+            "29f9abec06a7c5ee",
+            "5664857673fe6c8d",
+            "91250c705065460c"
+        ],
+        "x": 54,
+        "y": 1779,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "40148fa9303c904f",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 8",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5d6cf7582f48100b",
+            "7982e6751062c228",
+            "8c368d9d136b1126",
+            "ac01e6dd7012a030",
+            "c20ac306a57708f2",
+            "6334c3a0af8a2090",
+            "95dc47eec7bd18eb",
+            "0e65578a7bcadfe1",
+            "00ca4341203bedd6"
+        ],
+        "x": 54,
+        "y": 1559,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "d38799c8a22ce6b3",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 7",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6c7b745f8786764d",
+            "9cc020a55f01a9c4",
+            "6f196510c3fd6332",
+            "cb0763382abd6076",
+            "a7ced346a972bb84",
+            "8a6c3911fa64bf37",
+            "369688d7796c6e45",
+            "ab4b027951dbcc4c",
+            "a008094efc5310d0"
+        ],
+        "x": 54,
+        "y": 1339,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "812c3458dbe2dde1",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 6",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "28466bbbf261164d",
+            "cfe8fa6b8515230a",
+            "3e73b87160b5298e",
+            "884472bc40487e78",
+            "e4bb89edb5f79588",
+            "69a48958084e0228",
+            "f6bd695208037b1f",
+            "87ba08d166d1e99e",
+            "fd79d98eb9cf8730"
+        ],
+        "x": 54,
+        "y": 1119,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "ddae15b81c6de629",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 4",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d6d2697d3f0d79dd",
+            "23853189f2b015d7",
+            "5af22e72db4a70ea",
+            "6fbe83c76b280e0e",
+            "4ab4a4fd928e57c1",
+            "fea19853fe114dd6",
+            "d0e5b6c3312e73fd",
+            "0c52eff1c8d02516",
+            "06cb2b11aa74f0c2"
+        ],
+        "x": 54,
+        "y": 899,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "88c3afaa7148d4d0",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 3",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0c58a0c6c5f7276d",
+            "b814e60d77711e4a",
+            "5b365d1d504e1d47",
+            "81745ffea5766d75",
+            "0b6f82c5c56a5995",
+            "72151149f49295fd",
+            "33527f0c87b9eb81",
+            "ecd2b43d900b7341",
+            "3688324a67753807"
+        ],
+        "x": 54,
+        "y": 679,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "64b835da8690a537",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 2",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "49f4e762f3b2921b",
+            "94aa048ee3330ec7",
+            "1b7d12814418eb8c",
+            "709dc6236f0e589f",
+            "036f6e578b2bc095",
+            "91f39a5309acddc0",
+            "d50c837ab31432cb",
+            "ef69d4bcedd9d6c2",
+            "a7bb4d78dd724bf3"
+        ],
+        "x": 54,
+        "y": 459,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "2f6abf14049e4c85",
+        "type": "group",
+        "z": "8309826ef7c657cc",
+        "name": "Zone 1",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6d60a6e6eba81bc6",
+            "986aa84c68c9368b",
+            "315e7acd036283c6",
+            "1abbf89d70890343",
+            "9b2c424abc7a02c0",
+            "9da63d86fef8f6f5",
+            "a5212fb461cf0741"
+        ],
+        "x": 54,
+        "y": 219,
+        "w": 832,
+        "h": 202
+    },
+    {
+        "id": "d9dd368f0fbccf8d",
+        "type": "mqtt-broker",
+        "name": "MQTT MN24",
+        "broker": "172.20.0.103",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "cc63fe7309a4eee3",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "5d8cff309d94f72f",
+        "name": "getTimecodeInfo",
+        "func": "let result = {\n    zones: {}\n};\n\nfor (let zone = 1; zone <= 11; zone++) {\n    let frames = global.get(`framesZone${zone}`);\n    if (frames !== undefined) {\n        result.zones[`zone${zone}`] = {\n            generating: global.get(`generatingTCZone${zone}`) || false,\n            frames: frames,\n            ms: global.get(`msZone${zone}`) || 0,\n            timecode: global.get(`timecodeZone${zone}`) || \"\",\n            timestamp: global.get(`timestampZone${zone}`) || 0,\n            trigTC: global.get(`trigTCZone${zone}`) || false\n        };\n    }\n}\n\nmsg.payload = result;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 80,
+        "wires": [
+            [
+                "7f201d645b80fe0e"
+            ]
+        ]
+    },
+    {
+        "id": "7f201d645b80fe0e",
+        "type": "mqtt out",
+        "z": "8309826ef7c657cc",
+        "g": "5d8cff309d94f72f",
+        "name": "",
+        "topic": "timecode",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "d9dd368f0fbccf8d",
+        "x": 560,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "efde9539eef7c11b",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "Generator Zone 11",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone11\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 2100,
+        "wires": [
+            [
+                "7c8b10f15f3ca15c"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5726a1c674a78990",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 2040,
+        "wires": [
+            [
+                "b44c06c5d22b5e36"
+            ]
+        ]
+    },
+    {
+        "id": "73a34714399f9373",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 2080,
+        "wires": [
+            [
+                "b44c06c5d22b5e36"
+            ]
+        ]
+    },
+    {
+        "id": "3c38ef28188806bd",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "5d8cff309d94f72f",
+        "name": "10ms",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "0.01",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 80,
+        "wires": [
+            [
+                "cc63fe7309a4eee3"
+            ]
+        ]
+    },
+    {
+        "id": "b44c06c5d22b5e36",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone11\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone11\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone11\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone11\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2100,
+        "wires": [
+            [
+                "efde9539eef7c11b"
+            ]
+        ]
+    },
+    {
+        "id": "16f50cd4c0624f9a",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 2120,
+        "wires": [
+            [
+                "b44c06c5d22b5e36"
+            ]
+        ]
+    },
+    {
+        "id": "9f7ff75b4bdb91bd",
+        "type": "mqtt in",
+        "z": "8309826ef7c657cc",
+        "g": "5d8cff309d94f72f",
+        "name": "",
+        "topic": "timecodeCommands",
+        "qos": "1",
+        "datatype": "auto-detect",
+        "broker": "d9dd368f0fbccf8d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 180,
+        "y": 140,
+        "wires": [
+            [
+                "8b2df36171343128"
+            ]
+        ]
+    },
+    {
+        "id": "8b2df36171343128",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "g": "5d8cff309d94f72f",
+        "name": "timecodeCommands",
+        "mode": "link",
+        "links": [
+            "f967b0a29b5fd44b",
+            "cc1fddb448db2651",
+            "6334c3a0af8a2090",
+            "8a6c3911fa64bf37",
+            "69a48958084e0228",
+            "fea19853fe114dd6",
+            "72151149f49295fd",
+            "91f39a5309acddc0",
+            "9da63d86fef8f6f5"
+        ],
+        "x": 335,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "f967b0a29b5fd44b",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "link in 1",
+        "links": [
+            "8b2df36171343128",
+            "512f679dfb3623a3"
+        ],
+        "x": 255,
+        "y": 2140,
+        "wires": [
+            [
+                "b44c06c5d22b5e36"
+            ]
+        ]
+    },
+    {
+        "id": "fc8a4564062f273d",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "Zone 11",
+        "midiport": "8",
+        "x": 900,
+        "y": 2080,
+        "wires": []
+    },
+    {
+        "id": "7c8b10f15f3ca15c",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone11\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 2080,
+        "wires": [
+            [
+                "fc8a4564062f273d"
+            ]
+        ]
+    },
+    {
+        "id": "a31481f861a18203",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "bfc7a6f8511a7d0d",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 2160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "949905b65b5f6e5c",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "Generator Zone 9",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone9\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 1880,
+        "wires": [
+            [
+                "5664857673fe6c8d"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "98a88f73804ab0b5",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1820,
+        "wires": [
+            [
+                "bcc0d5f1c0de6b61"
+            ]
+        ]
+    },
+    {
+        "id": "3577f8522bbec778",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1860,
+        "wires": [
+            [
+                "bcc0d5f1c0de6b61"
+            ]
+        ]
+    },
+    {
+        "id": "bcc0d5f1c0de6b61",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone9\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone9\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone9\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone9\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 1880,
+        "wires": [
+            [
+                "949905b65b5f6e5c"
+            ]
+        ]
+    },
+    {
+        "id": "4417edb639698cf5",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 1900,
+        "wires": [
+            [
+                "bcc0d5f1c0de6b61"
+            ]
+        ]
+    },
+    {
+        "id": "cc1fddb448db2651",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "link in 2",
+        "links": [
+            "8b2df36171343128",
+            "168b964647cd1ec4"
+        ],
+        "x": 255,
+        "y": 1920,
+        "wires": [
+            [
+                "bcc0d5f1c0de6b61"
+            ]
+        ]
+    },
+    {
+        "id": "29f9abec06a7c5ee",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "Zone 9",
+        "midiport": "7",
+        "x": 900,
+        "y": 1860,
+        "wires": []
+    },
+    {
+        "id": "5664857673fe6c8d",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone9\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1860,
+        "wires": [
+            [
+                "29f9abec06a7c5ee"
+            ]
+        ]
+    },
+    {
+        "id": "91250c705065460c",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "c35bc856fab68451",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 1940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5d6cf7582f48100b",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "Generator Zone 8",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone8\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 1660,
+        "wires": [
+            [
+                "0e65578a7bcadfe1"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "7982e6751062c228",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1600,
+        "wires": [
+            [
+                "ac01e6dd7012a030"
+            ]
+        ]
+    },
+    {
+        "id": "8c368d9d136b1126",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1640,
+        "wires": [
+            [
+                "ac01e6dd7012a030"
+            ]
+        ]
+    },
+    {
+        "id": "ac01e6dd7012a030",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone8\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone8\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone8\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone8\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 1660,
+        "wires": [
+            [
+                "5d6cf7582f48100b"
+            ]
+        ]
+    },
+    {
+        "id": "c20ac306a57708f2",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 1680,
+        "wires": [
+            [
+                "ac01e6dd7012a030"
+            ]
+        ]
+    },
+    {
+        "id": "6334c3a0af8a2090",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "link in 3",
+        "links": [
+            "8b2df36171343128",
+            "002b6e8302a34635"
+        ],
+        "x": 255,
+        "y": 1700,
+        "wires": [
+            [
+                "ac01e6dd7012a030"
+            ]
+        ]
+    },
+    {
+        "id": "95dc47eec7bd18eb",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "Zone 8",
+        "midiport": "6",
+        "x": 900,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "0e65578a7bcadfe1",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone8\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1640,
+        "wires": [
+            [
+                "95dc47eec7bd18eb"
+            ]
+        ]
+    },
+    {
+        "id": "00ca4341203bedd6",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "40148fa9303c904f",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 1720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6c7b745f8786764d",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "Generator Zone 7",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone7\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 1440,
+        "wires": [
+            [
+                "ab4b027951dbcc4c"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "9cc020a55f01a9c4",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1380,
+        "wires": [
+            [
+                "cb0763382abd6076"
+            ]
+        ]
+    },
+    {
+        "id": "6f196510c3fd6332",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1420,
+        "wires": [
+            [
+                "cb0763382abd6076"
+            ]
+        ]
+    },
+    {
+        "id": "cb0763382abd6076",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone7\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone7\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone7\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone7\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 1440,
+        "wires": [
+            [
+                "6c7b745f8786764d"
+            ]
+        ]
+    },
+    {
+        "id": "a7ced346a972bb84",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 1460,
+        "wires": [
+            [
+                "cb0763382abd6076"
+            ]
+        ]
+    },
+    {
+        "id": "8a6c3911fa64bf37",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "link in 4",
+        "links": [
+            "8b2df36171343128",
+            "97c5d9ab856e9fe6"
+        ],
+        "x": 255,
+        "y": 1480,
+        "wires": [
+            [
+                "cb0763382abd6076"
+            ]
+        ]
+    },
+    {
+        "id": "369688d7796c6e45",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "Zone 7",
+        "midiport": "5",
+        "x": 900,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "ab4b027951dbcc4c",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone7\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1420,
+        "wires": [
+            [
+                "369688d7796c6e45"
+            ]
+        ]
+    },
+    {
+        "id": "a008094efc5310d0",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "d38799c8a22ce6b3",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 1500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "28466bbbf261164d",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "Generator Zone 6",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone6\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 1220,
+        "wires": [
+            [
+                "87ba08d166d1e99e"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "cfe8fa6b8515230a",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1160,
+        "wires": [
+            [
+                "884472bc40487e78"
+            ]
+        ]
+    },
+    {
+        "id": "3e73b87160b5298e",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 1200,
+        "wires": [
+            [
+                "884472bc40487e78"
+            ]
+        ]
+    },
+    {
+        "id": "884472bc40487e78",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone6\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone6\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone6\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone6\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 1220,
+        "wires": [
+            [
+                "28466bbbf261164d"
+            ]
+        ]
+    },
+    {
+        "id": "e4bb89edb5f79588",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 1240,
+        "wires": [
+            [
+                "884472bc40487e78"
+            ]
+        ]
+    },
+    {
+        "id": "69a48958084e0228",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "link in 5",
+        "links": [
+            "8b2df36171343128",
+            "a354074509d9d510"
+        ],
+        "x": 255,
+        "y": 1260,
+        "wires": [
+            [
+                "884472bc40487e78"
+            ]
+        ]
+    },
+    {
+        "id": "f6bd695208037b1f",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "Zone 6",
+        "midiport": "4",
+        "x": 900,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "87ba08d166d1e99e",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone6\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1200,
+        "wires": [
+            [
+                "f6bd695208037b1f"
+            ]
+        ]
+    },
+    {
+        "id": "fd79d98eb9cf8730",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "812c3458dbe2dde1",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 1280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d6d2697d3f0d79dd",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "Generator Zone 4",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone4\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 1000,
+        "wires": [
+            [
+                "0c52eff1c8d02516"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "23853189f2b015d7",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 940,
+        "wires": [
+            [
+                "6fbe83c76b280e0e"
+            ]
+        ]
+    },
+    {
+        "id": "5af22e72db4a70ea",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 980,
+        "wires": [
+            [
+                "6fbe83c76b280e0e"
+            ]
+        ]
+    },
+    {
+        "id": "6fbe83c76b280e0e",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone4\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone4\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone4\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone4\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 1000,
+        "wires": [
+            [
+                "d6d2697d3f0d79dd"
+            ]
+        ]
+    },
+    {
+        "id": "4ab4a4fd928e57c1",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 1020,
+        "wires": [
+            [
+                "6fbe83c76b280e0e"
+            ]
+        ]
+    },
+    {
+        "id": "fea19853fe114dd6",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "link in 6",
+        "links": [
+            "a4edfadcec9cf9c4",
+            "8b2df36171343128"
+        ],
+        "x": 255,
+        "y": 1040,
+        "wires": [
+            [
+                "6fbe83c76b280e0e"
+            ]
+        ]
+    },
+    {
+        "id": "d0e5b6c3312e73fd",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "Zone 4",
+        "midiport": "3",
+        "x": 900,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "0c52eff1c8d02516",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone4\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 980,
+        "wires": [
+            [
+                "d0e5b6c3312e73fd"
+            ]
+        ]
+    },
+    {
+        "id": "06cb2b11aa74f0c2",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "ddae15b81c6de629",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0c58a0c6c5f7276d",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "Generator Zone 3",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone3\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 780,
+        "wires": [
+            [
+                "ecd2b43d900b7341"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "b814e60d77711e4a",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 720,
+        "wires": [
+            [
+                "81745ffea5766d75"
+            ]
+        ]
+    },
+    {
+        "id": "5b365d1d504e1d47",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 760,
+        "wires": [
+            [
+                "81745ffea5766d75"
+            ]
+        ]
+    },
+    {
+        "id": "81745ffea5766d75",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone3\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone3\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone3\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone3\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 780,
+        "wires": [
+            [
+                "0c58a0c6c5f7276d"
+            ]
+        ]
+    },
+    {
+        "id": "0b6f82c5c56a5995",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 800,
+        "wires": [
+            [
+                "81745ffea5766d75"
+            ]
+        ]
+    },
+    {
+        "id": "72151149f49295fd",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "link in 7",
+        "links": [
+            "8b2df36171343128",
+            "e915182c437778d5"
+        ],
+        "x": 255,
+        "y": 820,
+        "wires": [
+            [
+                "81745ffea5766d75"
+            ]
+        ]
+    },
+    {
+        "id": "33527f0c87b9eb81",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "Zone 3",
+        "midiport": "2",
+        "x": 900,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "ecd2b43d900b7341",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone3\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 760,
+        "wires": [
+            [
+                "33527f0c87b9eb81"
+            ]
+        ]
+    },
+    {
+        "id": "3688324a67753807",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "88c3afaa7148d4d0",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "49f4e762f3b2921b",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "Generator Zone 2",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone2\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 560,
+        "wires": [
+            [
+                "ef69d4bcedd9d6c2"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "94aa048ee3330ec7",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 500,
+        "wires": [
+            [
+                "709dc6236f0e589f"
+            ]
+        ]
+    },
+    {
+        "id": "1b7d12814418eb8c",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 540,
+        "wires": [
+            [
+                "709dc6236f0e589f"
+            ]
+        ]
+    },
+    {
+        "id": "709dc6236f0e589f",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone2\") {\n    if (msg.payload.goto == 0) {\n        global.set(\"msZone2\", 0.0);\n    }\n    else if (msg.payload.goto && msg.payload.goto != 0) {\n        global.set(\"msZone2\", msg.payload.goto);\n    }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone2\", msg.payload.enabled);\n}\n\nelse if (msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\") {\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 560,
+        "wires": [
+            [
+                "49f4e762f3b2921b"
+            ]
+        ]
+    },
+    {
+        "id": "036f6e578b2bc095",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 580,
+        "wires": [
+            [
+                "709dc6236f0e589f"
+            ]
+        ]
+    },
+    {
+        "id": "91f39a5309acddc0",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "link in 8",
+        "links": [
+            "8b2df36171343128",
+            "08f0af6c7a80b061"
+        ],
+        "x": 255,
+        "y": 600,
+        "wires": [
+            [
+                "709dc6236f0e589f"
+            ]
+        ]
+    },
+    {
+        "id": "d50c837ab31432cb",
+        "type": "midi out",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "Zone 2",
+        "midiport": "1",
+        "x": 900,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "ef69d4bcedd9d6c2",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "Enabled?",
+        "func": "if(flow.get(\"MTCEnabledZone2\") == true)\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 540,
+        "wires": [
+            [
+                "d50c837ab31432cb"
+            ]
+        ]
+    },
+    {
+        "id": "a7bb4d78dd724bf3",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "64b835da8690a537",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6d60a6e6eba81bc6",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "Generator Zone 1",
+        "func": "// ==============================\n// LOW-JITTER MTC GENERATOR\n// One function node per zone\n// Change ONLY cueListName per copy\n// ==============================\n\n// -------- USER SETTINGS --------\nconst MTC_FPS = 30;              // 24 | 25 | 29.97 | 30\nconst initial = \"00:00:00:00\";\nconst offsetH = 0;\nconst cueListName = \"Zone1\";         // CHANGE THIS PER NODE\n// -------------------------------\n\n// ---- Timer stored on node object (never serialized) ----\nif (node._mtcTimer === undefined) { node._mtcTimer = null; }\nif (node._mtcGen === undefined) { node._mtcGen = 0; }\n\n// ---- Global key names (read by other nodes) ----\nconst zoneTC = \"generatingTC\" + cueListName;\nconst zoneTrigTC = \"trigTC\" + cueListName;\nconst timecodeName = \"timecode\" + cueListName;\nconst framesZone = \"frames\" + cueListName;\nconst timestampName = \"timestamp\" + cueListName;\nconst msName = \"ms\" + cueListName;\n\n// ---- Timestamp base ----\nconst baseYear = 1980;\nconst baseMonth = 11;   // JS 0-based, kept as original\nconst baseDay = 1;\n\n// ---- Precomputed constants ----\nconst MS_PER_FRAME = 1000 / MTC_FPS;\nconst QF_PERIOD_MS = MS_PER_FRAME / 4;  // one quarter-frame period\nconst MAX_CATCHUP = 4;                  // cap catch-up burst per tick\n\n// ---- MTC rate bits ----\nfunction getRateBits(fps) {\n    if (fps === 24) return 0;\n    if (fps === 25) return 1;\n    if (fps === 29.97) return 2;\n    return 3; // 30 or default\n}\nconst RATE_BITS = getRateBits(MTC_FPS);\n\n// ---- Runtime state (context, never persisted) ----\n// These are simple numbers/booleans/arrays — safe to persist,\n// but we keep them in context for access across tick() calls.\n\n// ===================================================\n//  HELPERS\n// ===================================================\n\nfunction pad2(n) {\n    return (n < 10 ? \"0\" : \"\") + n;\n}\n\nfunction timecodeFromMs(totalMs) {\n    if (totalMs < 0) totalMs = 0;\n    const totalSec = Math.floor(totalMs / 1000);\n    return {\n        hours: Math.floor(totalSec / 3600) + offsetH,\n        minutes: Math.floor(totalSec / 60) % 60,\n        seconds: totalSec % 60,\n        frames: Math.floor((totalMs % 1000) / MS_PER_FRAME)\n    };\n}\n\nfunction encodeMtcNibbles(tc) {\n    const hh = tc.hours % 24;\n    const mm = tc.minutes;\n    const ss = tc.seconds;\n    const ff = tc.frames;\n    return [\n        ff & 0x0F,                                              // QF0\n        (ff >> 4) & 0x01,                                       // QF1\n        ss & 0x0F,                                              // QF2\n        (ss >> 4) & 0x03,                                       // QF3\n        mm & 0x0F,                                              // QF4\n        (mm >> 4) & 0x03,                                       // QF5\n        hh & 0x0F,                                              // QF6\n        (((RATE_BITS & 0x03) << 1) | ((hh >> 4) & 0x01)) & 0x0F // QF7\n    ];\n}\n\n// ===================================================\n//  GLOBALS WRITER\n// ===================================================\n\nfunction writeGlobals(elapsedMs) {\n    global.set(msName, elapsedMs);\n\n    const totalFrameIndex = Math.floor(elapsedMs / MS_PER_FRAME);\n\n    if (totalFrameIndex !== context.get(\"lastFrameIndex\")) {\n        context.set(\"lastFrameIndex\", totalFrameIndex);\n\n        const tc = timecodeFromMs(elapsedMs);\n        const tcText = pad2(tc.hours) + \":\" + pad2(tc.minutes) + \":\" +\n            pad2(tc.seconds) + \":\" + pad2(tc.frames);\n\n        context.set(\"cachedNibbles\", encodeMtcNibbles(tc));\n\n        global.set(timecodeName, tcText);\n        global.set(framesZone, totalFrameIndex);\n\n        const msInFrame = Math.round(tc.frames * MS_PER_FRAME);\n        const d = new Date(baseYear, baseMonth, baseDay,\n            tc.hours, tc.minutes, tc.seconds, msInFrame);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// ===================================================\n//  TIMER MANAGEMENT (on node object, never serialized)\n// ===================================================\n\nfunction clearTimer() {\n    if (node._mtcTimer) {\n        clearTimeout(node._mtcTimer);\n        node._mtcTimer = null;\n    }\n}\n\n// ===================================================\n//  TICK — self-scheduling setTimeout chain\n// ===================================================\n\nfunction tick(gen) {\n    if (!context.get(\"running\")) return;\n\n    // Guard against stale tick from a previous chain\n    if (gen !== node._mtcGen) return;\n\n    const now = Date.now();\n    const startEpochMs = context.get(\"startEpochMs\");\n    let qfCounter = context.get(\"qfCounter\");\n    let nextDueMs = context.get(\"nextDueMs\");\n    const elapsedNow = Math.max(0, now - startEpochMs);\n\n    writeGlobals(elapsedNow);\n\n    // Send quarter-frames, catching up if late (capped)\n    let sent = 0;\n    const nibbles = context.get(\"cachedNibbles\");\n\n    while (now >= nextDueMs && sent < MAX_CATCHUP && nibbles) {\n        const piece = qfCounter % 8;\n        node.send({ payload: [0xF1, (piece << 4) | nibbles[piece]] });\n        qfCounter++;\n        nextDueMs = startEpochMs + (qfCounter * QF_PERIOD_MS);\n        sent++;\n    }\n\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", nextDueMs);\n\n    // Check external triggers\n    const trig = global.get(zoneTrigTC);\n    if (trig === \"stop\") { stopGenerator(); return; }\n    if (trig === \"pause\") { pauseGenerator(); return; }\n\n    global.set(zoneTC, \"Running\");\n\n    // Schedule next tick — pass generation as argument, not via bind/this\n    const delay = Math.max(0, Math.round(nextDueMs - Date.now()));\n    node._mtcTimer = setTimeout(tick, delay, gen);\n}\n\n// ===================================================\n//  START / PAUSE / STOP\n// ===================================================\n\nfunction startOrResume(gotoMs) {\n    clearTimer();\n\n    // Bump generation — any stale tick sees mismatch and exits\n    node._mtcGen++;\n    const gen = node._mtcGen;\n\n    const wasPaused = !!context.get(\"paused\");\n\n    // Priority: explicit goto value → context (normal pause) → global ms (flow restart) → 0\n    let elapsedBefore;\n    if (gotoMs !== undefined) {\n        elapsedBefore = Number(gotoMs) || 0;\n    } else if (wasPaused) {\n        elapsedBefore = Number(context.get(\"elapsedBeforePause\")) || 0;\n    } else {\n        elapsedBefore = Number(global.get(msName)) || 0;\n    }\n    const now = Date.now();\n    const startEpochMs = now - elapsedBefore;\n    const qfCounter = Math.floor(elapsedBefore / QF_PERIOD_MS);\n\n    context.set(\"running\", true);\n    context.set(\"paused\", false);\n    context.set(\"startEpochMs\", startEpochMs);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", qfCounter);\n    context.set(\"nextDueMs\", startEpochMs + ((qfCounter + 1) * QF_PERIOD_MS));\n    context.set(\"lastFrameIndex\", -1);\n\n    global.set(zoneTrigTC, \"start\");\n    global.set(zoneTC, \"Running\");\n    global.set(\"fps\", MTC_FPS);\n\n    writeGlobals(elapsedBefore);\n    tick(gen);\n}\n\nfunction pauseGenerator() {\n    if (!context.get(\"running\")) return;\n\n    const elapsedNow = Math.max(0, Date.now() - context.get(\"startEpochMs\"));\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", true);\n    context.set(\"elapsedBeforePause\", elapsedNow);\n\n    global.set(zoneTrigTC, \"pause\");\n    global.set(zoneTC, \"Paused\");\n    writeGlobals(elapsedNow);\n}\n\nfunction stopGenerator() {\n    clearTimer();\n\n    context.set(\"running\", false);\n    context.set(\"paused\", false);\n    context.set(\"elapsedBeforePause\", 0);\n    context.set(\"qfCounter\", 0);\n    context.set(\"nextDueMs\", 0);\n    context.set(\"lastFrameIndex\", -1);\n    context.set(\"cachedNibbles\", null);\n\n    global.set(zoneTC, \"Stopped\");\n    global.set(zoneTrigTC, \"stop\");\n    global.set(timecodeName, initial);\n    global.set(framesZone, 0);\n    global.set(msName, 0);\n\n    const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n    global.set(timestampName, d.getTime());\n}\n\n// ===================================================\n//  INIT + INCOMING CONTROL\n// ===================================================\n\nif (context.get(\"initialized\") !== true) {\n    context.set(\"initialized\", true);\n    if (global.get(zoneTC) == null) global.set(zoneTC, \"Stopped\");\n    if (global.get(zoneTrigTC) == null) global.set(zoneTrigTC, \"stop\");\n    if (global.get(timecodeName) == null) global.set(timecodeName, initial);\n    if (global.get(framesZone) == null) global.set(framesZone, 0);\n    if (global.get(msName) == null) global.set(msName, 0);\n    if (global.get(timestampName) == null) {\n        const d = new Date(baseYear, baseMonth, baseDay, 0, 0, 0, 0);\n        global.set(timestampName, d.getTime());\n    }\n}\n\n// Parse command — handle both string \"goto\" and object {command:\"goto\", goto:0, ...}\nlet cmd = \"\";\nlet gotoTarget;\n\nif (typeof msg.payload === \"string\") {\n    cmd = msg.payload.toLowerCase();\n    // Check msg.gotoMs passed from parse node (race-safe)\n    if (msg.gotoMs !== undefined) {\n        gotoTarget = Number(msg.gotoMs);\n    }\n} else if (msg.payload && typeof msg.payload === \"object\" && msg.payload.command) {\n    cmd = msg.payload.command.toLowerCase();\n    if (msg.payload.goto !== undefined) {\n        gotoTarget = Number(msg.payload.goto);\n    }\n} else {\n    //node.warn(cueListName + \" unrecognized payload: \" + JSON.stringify(msg.payload));\n}\n\nif (cmd === \"goto\") {\n    // gotoTarget from message is race-safe; global fallback only for flow restart\n    const targetMs = (gotoTarget !== undefined) ? gotoTarget : (Number(global.get(msName)) || 0);\n    //node.warn(cueListName + \" GOTO targetMs=\" + targetMs + \" (from \" + (gotoTarget !== undefined ? \"msg\" : \"global\") + \") running=\" + context.get(\"running\"));\n    stopGenerator();\n    startOrResume(targetMs);\n} else if (cmd === \"start\" && !context.get(\"running\")) {\n    startOrResume();\n} else if (cmd === \"start\" && context.get(\"running\")) {\n    //node.warn(cueListName + \" START ignored — already running\");\n} else if (cmd === \"pause\" && context.get(\"running\")) {\n    pauseGenerator();\n} else if (cmd === \"stop\") {\n    stopGenerator();\n} else if (cmd !== \"\") {\n    //node.warn(cueListName + \" unknown cmd: \" + cmd);\n}\n\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "global.set(\"generatingTC\", \"Stopped\");\nglobal.set(\"trigTC\", \"stop\");\nglobal.set(\"tctimestamp\", \"344494800\");\n\n\n//var msg = global.get(\"tctimestamp\");\n//return msg;",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 320,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "986aa84c68c9368b",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "Start TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 160,
+        "y": 260,
+        "wires": [
+            [
+                "1abbf89d70890343"
+            ]
+        ]
+    },
+    {
+        "id": "315e7acd036283c6",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "Stop TC",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "stop",
+        "payloadType": "str",
+        "x": 160,
+        "y": 300,
+        "wires": [
+            [
+                "1abbf89d70890343"
+            ]
+        ]
+    },
+    {
+        "id": "1abbf89d70890343",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "parse",
+        "func": "function delay(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nif (msg.payload.zone === \"Zone1\") {\n        if (msg.payload.goto == 0) {\n            global.set(\"msZone1\", 0.0);\n        }\n        else if(msg.payload.goto && msg.payload.goto != 0)\n        {\n            global.set(\"msZone1\", msg.payload.goto);           \n        }\n\n    node.send({ payload: msg.payload.command, gotoMs: msg.payload.goto });\n\n    // Set MTCEnabled flag for this zone\n    flow.set(\"MTCEnabledZone1\", msg.payload.enabled);\n}\n\nelse if(msg.payload == \"start\" || msg.payload == \"stop\" || msg.paylod == \"pause\")\n{\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 320,
+        "wires": [
+            [
+                "6d60a6e6eba81bc6"
+            ]
+        ]
+    },
+    {
+        "id": "9b2c424abc7a02c0",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "Pause",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "pause",
+        "payloadType": "str",
+        "x": 170,
+        "y": 340,
+        "wires": [
+            [
+                "1abbf89d70890343"
+            ]
+        ]
+    },
+    {
+        "id": "9da63d86fef8f6f5",
+        "type": "link in",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "link in 9",
+        "links": [
+            "8b2df36171343128",
+            "0c2b41940f9163f3"
+        ],
+        "x": 255,
+        "y": 360,
+        "wires": [
+            [
+                "1abbf89d70890343"
+            ]
+        ]
+    },
+    {
+        "id": "a5212fb461cf0741",
+        "type": "catch",
+        "z": "8309826ef7c657cc",
+        "g": "2f6abf14049e4c85",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 800,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ba9b918e97d00eb0",
+        "type": "inject",
+        "z": "8309826ef7c657cc",
+        "name": "onStartup",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Stopped",
+        "payloadType": "str",
+        "x": 850,
+        "y": 180,
+        "wires": [
+            [
+                "5b476a403abd345f"
+            ]
+        ]
+    },
+    {
+        "id": "5b476a403abd345f",
+        "type": "function",
+        "z": "8309826ef7c657cc",
+        "name": "stopped",
+        "func": "global.set(\"generatingTCZone1\", \"Stopped\");\nglobal.set(\"generatingTCZone2\", \"Stopped\");\nglobal.set(\"generatingTCZone3\", \"Stopped\");\nglobal.set(\"generatingTCZone4\", \"Stopped\");\nglobal.set(\"generatingTCZone6\", \"Stopped\");\nglobal.set(\"generatingTCZone7\", \"Stopped\");\nglobal.set(\"generatingTCZone8\", \"Stopped\");\nglobal.set(\"generatingTCZone9\", \"Stopped\");\nglobal.set(\"generatingTCZone11\", \"Stopped\");\n\nif (global.get(\"trigTCZone1\") == \"start\") {\n    node.send([{ payload: { zone: \"Zone1\", command: \"goto\", goto: global.get(\"msZone1\") + 2000, enabled: true } }, null, null, null, null, null, null, null, null]);\n}\nif (global.get(\"trigTCZone2\") == \"start\") {\n    node.send([null, { payload: { zone: \"Zone2\", command: \"goto\", goto: global.get(\"msZone2\") + 2000, enabled: true } }, null, null, null, null, null, null, null]);\n}\nif (global.get(\"trigTCZone3\") == \"start\") {\n    node.send([null, null, { payload: { zone: \"Zone3\", command: \"goto\", goto: global.get(\"msZone3\") + 2000, enabled: true } }, null, null, null, null, null, null]);\n}\nif (global.get(\"trigTCZone4\") == \"start\") {\n    node.send([null, null, null, { payload: { zone: \"Zone4\", command: \"goto\", goto: global.get(\"msZone4\") + 2000, enabled: true } }, null, null, null, null, null]);\n}\nif (global.get(\"trigTCZone6\") == \"start\") {\n    node.send([null, null, null, null, { payload: { zone: \"Zone6\", command: \"goto\", goto: global.get(\"msZone6\") + 2000, enabled: true } }, null, null, null, null]);\n}\nif (global.get(\"trigTCZone7\") == \"start\") {\n    node.send([null, null, null, null, null, { payload: { zone: \"Zone7\", command: \"goto\", goto: global.get(\"msZone7\") + 2000, enabled: true } }, null, null, null]);\n}\nif (global.get(\"trigTCZone8\") == \"start\") {\n    node.send([null, null, null, null, null, null, { payload: { zone: \"Zone8\", command: \"goto\", goto: global.get(\"msZone8\") + 2000, enabled: true } }, null, null]);\n}\nif (global.get(\"trigTCZone9\") == \"start\") {\n    node.send([null, null, null, null, null, null, null, { payload: { zone: \"Zone9\", command: \"goto\", goto: global.get(\"msZone9\") + 2000, enabled: true } }, null]);\n}\nif (global.get(\"trigTCZone11\") == \"start\") {\n    node.send([null, null, null, null, null, null, null, null, { payload: { zone: \"Zone11\", command: \"goto\", goto: global.get(\"msZone11\") + 2000, enabled: true } }]);\n}",
+        "outputs": 9,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 180,
+        "wires": [
+            [
+                "0c2b41940f9163f3"
+            ],
+            [
+                "08f0af6c7a80b061"
+            ],
+            [
+                "e915182c437778d5"
+            ],
+            [
+                "a4edfadcec9cf9c4"
+            ],
+            [
+                "a354074509d9d510"
+            ],
+            [
+                "97c5d9ab856e9fe6"
+            ],
+            [
+                "002b6e8302a34635"
+            ],
+            [
+                "168b964647cd1ec4"
+            ],
+            [
+                "512f679dfb3623a3"
+            ]
+        ]
+    },
+    {
+        "id": "0c2b41940f9163f3",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC1",
+        "mode": "link",
+        "links": [
+            "9da63d86fef8f6f5"
+        ],
+        "x": 1195,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "08f0af6c7a80b061",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC2",
+        "mode": "link",
+        "links": [
+            "91f39a5309acddc0"
+        ],
+        "x": 1195,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "e915182c437778d5",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC3",
+        "mode": "link",
+        "links": [
+            "72151149f49295fd"
+        ],
+        "x": 1195,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "a4edfadcec9cf9c4",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC4",
+        "mode": "link",
+        "links": [
+            "fea19853fe114dd6"
+        ],
+        "x": 1195,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "a354074509d9d510",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC6",
+        "mode": "link",
+        "links": [
+            "69a48958084e0228"
+        ],
+        "x": 1195,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "97c5d9ab856e9fe6",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC7",
+        "mode": "link",
+        "links": [
+            "8a6c3911fa64bf37"
+        ],
+        "x": 1195,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "002b6e8302a34635",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC8",
+        "mode": "link",
+        "links": [
+            "6334c3a0af8a2090"
+        ],
+        "x": 1195,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "168b964647cd1ec4",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC9",
+        "mode": "link",
+        "links": [
+            "cc1fddb448db2651"
+        ],
+        "x": 1195,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "512f679dfb3623a3",
+        "type": "link out",
+        "z": "8309826ef7c657cc",
+        "name": "restartTC11",
+        "mode": "link",
+        "links": [
+            "f967b0a29b5fd44b"
+        ],
+        "x": 1195,
+        "y": 340,
+        "wires": []
+    }
+]
