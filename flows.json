@@ -2050,7 +2050,7 @@
         "topic": "",
         "payload": "Stopped",
         "payloadType": "str",
-        "x": 850,
+        "x": 870,
         "y": 180,
         "wires": [
             [
